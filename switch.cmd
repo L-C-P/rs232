@@ -1,0 +1,1 @@
+rs232.exe send "*com" baud=57600,data=8,parity=None,newline=true "EZS OUT%1 VS IN%2"
